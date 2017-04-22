@@ -4,10 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>這是第一個JSP測試網頁</title>
+<title>報明牌</title>
 </head>
 <body>
-	<a href="FirstServlet.do">測試</a><br>
-	<a href="ch01/queryLottery.jsp">問單一明牌</a><P/><br>
+<H2>卜籤求明牌</H2>   
+${visitName}，您好，<BR>  
+您的明牌為：${luckyNumber}
 </body>
 </html>

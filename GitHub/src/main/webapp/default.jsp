@@ -7,6 +7,6 @@
 <title>這是第一個JSP測試網頁</title>
 </head>
 <body>
-	<a href="FirstServlet.do">測試</a>
+	<a href="FirstServlet.do">測試第二次</a>
 </body>
 </html>
